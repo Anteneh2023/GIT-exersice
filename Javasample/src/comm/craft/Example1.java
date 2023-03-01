@@ -6,10 +6,7 @@ public class Example1 {
 		// TODO Auto-generated method stub
 		System.out.println("Print my first text");
 		System.out.println("Print my first text");
-		System.out.println("Print my first text");
-		System.out.println("Print my first text");
-		System.out.println("Print my first text");
-		System.out.println("Print my first text");
+		
 		
 	}
 
