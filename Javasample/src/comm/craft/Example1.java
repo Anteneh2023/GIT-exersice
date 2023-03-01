@@ -7,6 +7,10 @@ public class Example1 {
 		System.out.println("Print my first text");
 		System.out.println("Print my first text");
 		System.out.println("Print my first text");
+		System.out.println("Print my first text");
+		System.out.println("Print my first text");
+		System.out.println("Print my first text");
+		
 	}
 
 }
